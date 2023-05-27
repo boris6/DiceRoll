@@ -1,6 +1,6 @@
-# first_app
+# Dice roll
 
-A new Flutter project.
+A new Flutter project. It's goal is to get familiarize with Dart and Flutter. This is a simple application that let's user roll two dices.
 
 ## Getting Started
 

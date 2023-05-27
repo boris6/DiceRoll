@@ -30,11 +30,11 @@ class _DiceRollerState extends State<DiceRoller> {
           children: [
             Image.asset(
               'assets/images/dice-images/dice-$diceRollOne.png',
-              width: 200,
+              width: 180,
             ),
             Image.asset(
               'assets/images/dice-images/dice-$diceRollTwo.png',
-              width: 200,
+              width: 180,
             ),
           ],
         ),
